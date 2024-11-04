@@ -53,5 +53,3 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Credits
 This project was inspired by the layout and functionality of Douglas.de and serves as an educational clone.
-
-This README provides clear guidance on what the project is, how to set it up, and possible future enhancements. Let me know if you'd like to customize any specific sections!
